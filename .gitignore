@@ -1,0 +1,11 @@
+# pictures
+.png
+
+# compressed files
+.zip
+
+# pycache
+.pyc
+
+# text files
+.txt
